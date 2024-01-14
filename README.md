@@ -11,3 +11,5 @@ Customers assigning a rating of 9 or 10 fall into the category of 'promoters.' T
 
 The NPS calculation involves determining the percentage of promoters divided by the total number of customers, subtracted by the percentage of detractors divided by the total number of customers. Although passives are not directly factored into the calculation, their presence influences the percentages. Having more passives is preferable to having more detractors since passives do not count against the percentage of promoters.
 
+<h2>Demo Video</h2>
+https://drive.google.com/file/d/1rTpChsN7cvm_BgGe1CpYyhD5T9zPhN0b/view
