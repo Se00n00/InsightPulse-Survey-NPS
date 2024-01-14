@@ -108,4 +108,5 @@ datetime: Used for handling date and time information.
 random: Provides functions for random number generation.
 Conclusion:
 This simulation script serves as a flexible tool for understanding customer dynamics and NPS variations over time. It allows for customization of parameters, making it suitable for different scenarios and analyses. The modular structure facilitates easy extension and modification for specific use cases.
-
+<h3>Demo Video Link</h3>
+https://drive.google.com/file/d/1rTpChsN7cvm_BgGe1CpYyhD5T9zPhN0b/view?usp=sharing
